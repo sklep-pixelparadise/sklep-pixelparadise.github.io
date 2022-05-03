@@ -1539,7 +1539,7 @@ a {
   transform: translateY(-10px);
 }
 .cid-t4EWfsspJa .card-wrap {
-  background: #ffffff;
+  background: #fafafa;
   border-radius: 4px;
 }
 @media (max-width: 991px) {
@@ -1829,6 +1829,9 @@ a {
   padding: 1rem 0;
 }
 .cid-t4EVH29S80 .panel-title-edit {
+  color: #000000;
+}
+.cid-t4EVH29S80 .panel-text {
   color: #000000;
 }
 .cid-t4EWZZN8gz {
